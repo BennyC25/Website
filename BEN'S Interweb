@@ -1,22 +1,22 @@
 <!DOCTYPE html>
 <html>
 <style>
-p {font-family: 'Arial", 'sans-serif'; text-align: center}
+p {font-family: 'Arial', 'sans-serif'; text-align: center}
 
-p2 {font-family: 'Arial", 'sans-serif'; text-align: center}
+p2 {font-family: 'Arial', 'sans-serif'; text-align: center}
 
 p3 {
-    font-family: 'Arial", 'sans-serif';
+    font-family: 'Arial', 'sans-serif';
     text-align: center
 }
 
 p4 {
-    font-family: 'Arial", 'sans-serif';
+    font-family: 'Arial', 'sans-serif';
     text-align: center
 }
 
 p5  {
-    font-family: 'Arial", 'sans-serif';
+    font-family: 'Arial', 'sans-serif';
     text-align: center
 }
 
