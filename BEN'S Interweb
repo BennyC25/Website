@@ -1,40 +1,24 @@
 <!DOCTYPE html>
 <html>
-<style>
+  <head>
+    <title>BEN'S Interweb Site</title>
+    <meta charset="utf-8"/>
+    <style>
 p {font-family: 'Arial', 'sans-serif'; text-align: center}
 
 p2 {font-family: 'Arial', 'sans-serif'; text-align: center}
 
-p3 {
-    font-family: 'Arial', 'sans-serif';
-    text-align: center
-}
+p3 {font-family: 'Arial', 'sans-serif'; text-align: center}
 
-p4 {
-    font-family: 'Arial', 'sans-serif';
-    text-align: center
-}
+p4 {font-family: 'Arial', 'sans-serif'; text-align: center}
 
-p5  {
-    font-family: 'Arial', 'sans-serif';
-    text-align: center
-}
+p5 {font-family: 'Arial', 'sans-serif'; text-align: center}
 
-h1 { 
-   font-family: Palatino, 'Palatino Linotype',serif;
-   font-size: 32px;
-   text-align: center;
-   color: red;
-}
+h1 {font-family: Palatino, 'Palatino Linotype',serif; font-size: 32px; text-align: center; color: red;}
 
-body {
-    background-color: lightblue:
-}
+body {background-color: lightblue;}
 
 </style>
-  <head>
-    <title>BEN'S Interweb Site</title>
-    <meta charset="utf-8"/>
   </head>
   <body>
     <h1>Ben's Interweb Site</h1>
