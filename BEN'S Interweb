@@ -3,10 +3,7 @@
 <style>
 p {font-family: 'Arial", 'sans-serif'; text-align: center}
 
-p2 {
-    font-family: 'Arial", 'sans-serif';
-    text-align: center
-}
+p2 {font-family: 'Arial", 'sans-serif'; text-align: center}
 
 p3 {
     font-family: 'Arial", 'sans-serif';
