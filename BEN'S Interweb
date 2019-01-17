@@ -22,8 +22,9 @@ p5  {
 
 h1 { 
    font-family: Palatino, 'Palatino Linotype',serif;
-	 font-size: 32px;
+   font-size: 32px;
    text-align: center;
+   color: red;
 }
 
 body {
